@@ -1,0 +1,15 @@
+D:\Project\PCD\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\Project\PCD\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+D:\Project\PCD\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+D:\Project\PCD\ImageEditor\ImageEditor\bin\Debug\ImageEditor.xml
+D:\Project\PCD\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+D:\Project\PCD\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Resources.resources
+D:\Project\PCD\ImageEditor\ImageEditor\obj\Debug\ImageEditor.vbproj.GenerateResource.Cache
+D:\Project\PCD\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+D:\Project\PCD\ImageEditor\ImageEditor\obj\Debug\ImageEditor.xml
+D:\Project\PCD\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+D:\Project\PCD\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form2.resources
+D:\Project\PCD\EditO\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\ImageEditor.exe
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\ImageEditor.xml
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\ImageEditor.pdb

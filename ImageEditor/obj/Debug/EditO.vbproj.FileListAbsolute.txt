@@ -1,0 +1,10 @@
+D:\Project\PCD\EditO\ImageEditor\bin\Debug\EditO.exe.config
+D:\Project\PCD\EditO\ImageEditor\bin\Debug\EditO.exe
+D:\Project\PCD\EditO\ImageEditor\bin\Debug\EditO.pdb
+D:\Project\PCD\EditO\ImageEditor\bin\Debug\EditO.xml
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\EditO.Form2.resources
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\EditO.Resources.resources
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\EditO.vbproj.GenerateResource.Cache
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\EditO.exe
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\EditO.xml
+D:\Project\PCD\EditO\ImageEditor\obj\Debug\EditO.pdb
